@@ -1,7 +1,7 @@
 # Program to display the Fibonacci sequence up to n-th term
 
 nterms = int(input("How many terms? "))
-
+print("How it's going?")
 # first two terms
 n1, n2 = 0, 1
 count = 0
